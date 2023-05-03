@@ -20,12 +20,12 @@ To run the file,  `open command prompt with root folder path` and follow the fol
 note: if you have different command to call python terminal than `py`, like `python`, `python3`, use it instead of `py` in all above commands.
 
 # **API Documentetion**
-For the API trial, there is `.yaml` file is there in the root folder.
+For the API trial, there is `.yaml` file in the root folder.
 
-Please follow the following steps for the trial of APIs.
+Please follow the following steps to open .yaml file if you are new to it.
 
 1. Download `insomnia`.
 
 2. Run the application - check out the first secion of this file for this.
 
-3. load the file - `Kanban_API_Documentation_2022-08-31` to application, you can do this by just drag the file and drop in the `insomnia` application.
+3. load the file - `Kanban_API_Documentation_2022-08-31.yaml` to application.
