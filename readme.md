@@ -6,7 +6,7 @@ To run the file,  `open command prompt with root folder path` and follow the fol
 
 > py -m venv myenv
 
-2. Activate the vertual environment you created in above step - by following code.
+2. Activate the virtual environment you created in above step - by following code.
 >myenv\scripts\activate
 
 3.  Install all requirements from file `requirements.txt` by following code to the vertual environment.
