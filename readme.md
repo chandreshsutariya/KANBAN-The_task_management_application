@@ -19,7 +19,7 @@ To run the file,  `open command prompt with root folder path` and follow the fol
 
 note: if you have different command to call python terminal than `py`, like `python`, `python3`, use it instead of `py` in all above commands.
 
-# **To check APIs**
+# **API Documentetion**
 For the API trial, there is `.yaml` file is there in the root folder.
 
 Please follow the following steps for the trial of APIs.
